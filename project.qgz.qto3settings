@@ -1,0 +1,35 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "tracks": []
+    },
+    "layers": {
+      "Kadigamuwa_bd661162_9734_474a_94b5_26689cd1f3d7": {
+        "enabled": true,
+        "tracks": []
+      },
+      "fp:d7b0081a": {
+        "enabled": true,
+        "tracks": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "Kadigamuwa_bd661162_9734_474a_94b5_26689cd1f3d7",
+      "name": "Kadigamuwa",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:d7b0081a",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 21002
+}
